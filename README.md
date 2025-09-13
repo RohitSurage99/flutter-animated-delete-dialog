@@ -29,7 +29,7 @@ This project is built to showcase **Flutter UI skills** and can be directly inte
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flutter-animated-delete-dialog.git
+   git clone  https://github.com/RohitSurage99/flutter-animated-delete-dialog.git
 
 2. Navigate into the project directory:
 
