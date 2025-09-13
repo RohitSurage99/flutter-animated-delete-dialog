@@ -18,9 +18,9 @@ This project is built to showcase **Flutter UI skills** and can be directly inte
 
 ## 📸 Preview
 
-> Replace this with your actual GIF or screenshot.
-
-![Demo](assets/flutter_ui_demo.gif)
+| Delete Dialog | Trigger Button |
+|---------------|----------------|
+| ![Dialog](assets/screenshot_dialog.png) | ![Button](assets/screenshot_button.png) |
 
 ---
 
